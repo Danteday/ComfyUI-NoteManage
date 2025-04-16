@@ -64,30 +64,19 @@ Clone this repo to ComfyUI/custom_nodes
 -   **Global Overview**: Use the global panel to quickly review all annotations in a complex workflow. 
 
 ## Screenshots
-![General](https://github.com/user-attachments/assets/a93a2882-b01e-44df-b2d1-88678cf58191)
-
+![General](https://github.com/user-attachments/assets/035aa0d2-7786-4f30-b6a7-956a99bd2254)
 ### Context menu
-![menu](https://github.com/user-attachments/assets/51fa5b1e-ae8d-4fb8-86b3-f9b9637dd9cb)
-
+![menu](https://github.com/user-attachments/assets/bde068ed-003c-48f0-84f1-58118a6ac76a)
 ### Note Modal Window
-![window](https://github.com/user-attachments/assets/5b3f7113-036b-4f11-8498-8533ee6bddc8)
-
+![window](https://github.com/user-attachments/assets/d030e3de-337f-4653-b4ef-7973129affcc)
 ### Global Import Mapping Dialog
-![import](https://github.com/user-attachments/assets/78422fdf-39b8-40c3-bcb7-63644804069a)
+![import](https://github.com/user-attachments/assets/376fc829-712d-4e67-bd3d-f257cef3d751)
 Here are the 5 options:
 -   🔴 Node selection required – You must manually select the node to which the note should be added.
 -   🟡 Title match – Matches the node's name, but not its ID.
 -   🟡 ID match – Use this if you renamed the node to which you want to attach the note and are absolutely sure of your actions.
 -   🟢 Full match (ID and title) – The best option for loading; it ensures a 100% match.
 -   ⚪ Selected manually – The node is selected manually.
-
 ### Export Selection
-![export](https://github.com/user-attachments/assets/c133553f-ff44-4879-af3f-84c0642b8f0d)
-
-
-
-
-
-
-
+![export](https://github.com/user-attachments/assets/b1baa01f-4fb4-4f1c-b328-90c1d7842fa6)
 
