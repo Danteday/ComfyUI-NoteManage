@@ -1,0 +1,14 @@
+[project]
+name = "notemanager"
+description = "A powerful extension for ComfyUI that enables adding notes to many node in your workflow. Keep track of important settings, reminders, and workflow documentation directly within your ComfyUI canvas."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/Danteday/ComfyUI-NoteManager"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-NoteManager"
+Icon = ""
