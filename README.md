@@ -14,9 +14,10 @@ A powerful extension for ComfyUI that enables adding notes to many node in your 
 -   🌍 **Global Import/Export:** Manage notes for the *entire* workflow, including an intelligent import mapping feature. 
 -   🧩 **Broad Compatibility:** Designed to work with many types of ComfyUI nodes.
 ## Installation
+Automatically:
+Go to Comfyui manager, select "Custom Nodes Manager" and enter NoteManager in the search
 
 Manually:
-
 Clone this repo to ComfyUI/custom_nodes
 
 ## Usage
